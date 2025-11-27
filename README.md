@@ -19,6 +19,10 @@ A Passionate Flutter Developer
 💬 Ask me about: Flutter UI, App Architecture, AdMob Integration
 
 ⚡ Fun fact: I Love programming and programming Love Me ☕🔥
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mdakash71&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/akash.ahmmed.373576) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-akash-ahammed/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashkhan62066@gmail.com) 
 
@@ -35,8 +39,6 @@ A Passionate Flutter Developer
 ![](https://nirzak-streak-stats.vercel.app/?user=mdakash71&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdakash71&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mdakash71&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
