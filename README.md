@@ -4,44 +4,21 @@ A Passionate Flutter Developer
 
 📩 Email: akashkhan62066@gmail.com
 
-💬 Contact: 01822856278
+💬 Contact: 0822856278
 
-🤝 Available for Collaboration • App Development • UI/UX Support
+🤝 Open for Collaboration – Flutter Apps, UI/UX, Firebase
 
-🔭 Working On
+🔭 Working on: Flutter Apps, Custom UI/UX, API Integration
 
-Flutter App Development
+🌱 Learning: Advanced Animations, Firebase, Clean Architecture
 
-Custom UI/UX
+👯 Collaboration: Flutter + Firebase Projects
 
-State Management (Provider / GetX / Riverpod)
+🤔 Need help with: Publishing, Monetization, App Optimization
 
-REST API Integration
+💬 Ask me about: Flutter UI, App Architecture, AdMob Integration
 
-🌱 Learning
-
-Advanced Animations
-
-Firebase Auth & Firestore
-
-Clean Architecture (MVVM)
-
-Hive / Drift
-
-💬 Ask Me About
-
-Flutter UI
-
-App Architecture
-
-Play Store Publishing
-
-AdMob Integration
-
-⚡ Fun Fact
-
-I can build an entire mobile app with coffee + good vibes ☕🔥
-
+⚡ Fun fact: I Love programming and programming Love Me ☕🔥
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/akash.ahmmed.373576) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-akash-ahammed/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashkhan62066@gmail.com) 
 
